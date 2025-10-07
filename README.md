@@ -75,7 +75,7 @@ Hello there, Jac!
 
 ## 📚 Resources
 - [Jac Language Docs](https://jac-lang.org/)  
-- [Jac GitHub Repo](https://github.com/JacLang/jac)  
+- [Jac GitHub Repo](https://github.com/jaseci-labs/jaseci)  
 - [Jac Playground](https://www.jac-lang.org/playground/)  
 
 ---

@@ -25,8 +25,13 @@ This repo is my personal practice ground for exploring these concepts.
 
 ## 🗂️ Repo Structure
 ```bash
+
 ouk-course/
-├── basics/          # Core syntax, variables, control flow
+├── 📄 README.md            # ℹ️ Main project README with overview and instructions.
+└── 📂 jac-lang/
+    ├── 📂 basics/             # 🎓 Experiments and Jac language fundamentals.
+    ├── 📂 career_path_finder/ # 🚀 Project to recommend careers based on skills.
+    └── 📂 guess_game/         # 🎲 The number guessing game project.
 
 ```
 

@@ -96,4 +96,3 @@ Enter your region/country (e.g. Kenya): [User Input]
 ## ✅ Summary
 
 This project shows how **JAC + Gemini** can be combined to create an **AI-powered career path generator** that produces **SMART, personalized learning plans** based on user input and location context.
-```
